@@ -18,7 +18,7 @@ open API set of endpoints, allowing you to create your own app or even adding it
 
 ## I want to contribute! Can I do it?
 
-## As developer
+### As developer
 There is a lot of issues opened on Tanuki repositories, just check them and select one you think you can fix! The same for bugs, if you find any bug, report it or fix it and leave us a pull request.
 
 ### As non-developer
