@@ -1,11 +1,15 @@
-# Tanuki's Meta
+<p align="center">
+  <img src="https://github.com/tanukiapp/meta/blob/master/tanuki.png?raw=true" width=400 />
+</p>
+
+<h1 align="center">Tanuki Meta</h1>
+
+<br />
 
 ## What is Tanuki?
-
 Tanuki is an open-source anime schedule built for Kitsu community. It uses Syoboi API and Kitsu.io API to get current airing and upcoming shows, and to creates a schedule with top animes currently airing.
 
 ## How does Tanuki works?
-
 ### [DEPRECATED] Tanuki v1.0 
 Tanuki v1.0 runs over Nginx HTTP server, however it has its own specific server-side application that makes it faster, secure and functional.
 
