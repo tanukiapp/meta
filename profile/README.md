@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tanukiapp/meta/blob/master/tanuki.png?raw=true" width=400 />
+  <img src="https://github.com/tanukiapp/.github/blob/master/profile/tanuki.png?raw=true" width=400 />
 </p>
 
 <h1 align="center">Tanuki Meta</h1>
